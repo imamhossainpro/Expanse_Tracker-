@@ -1,5 +1,7 @@
+)
 # Expense Tracker (React)
-Liver Preview: 
+Liver Preview: https://theexpensetrackerreact.netlify.app
+
 
 ## Usage
 ```
@@ -12,4 +14,3 @@ npm start
 npm run build
 ```
 
-# Expanse_Tracker-
